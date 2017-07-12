@@ -1,0 +1,27 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.8",
+    "nunjucks": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muzammil-jafferi/book-store-app-MEAN-.git"
+  },
+  "author": "muzzu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muzammil-jafferi/book-store-app-MEAN-/issues"
+  },
+  "homepage": "https://github.com/Muzammil-jafferi/book-store-app-MEAN-#readme"
+}
